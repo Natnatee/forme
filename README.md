@@ -2,6 +2,8 @@
 
 เว็บไซต์ single-page สตูดิโอสถาปัตยกรรมสมมติ สไตล์ premium editorial โทนกระดาษขาว–ถ่าน–เขียวหม่น รองรับมือถือและเดสก์ท็อป ใช้ข้อมูล mock ทั้งหมด ไม่มี backend, database, API key หรือ analytics
 
+**Live Demo:** https://forme-beige.vercel.app/ (โครงการและฟอร์มเป็นข้อมูลจำลอง)
+
 ## เริ่มพัฒนา
 
 ต้องมี Node.js >= 20.9 และ pnpm 9.15.4 คำสั่งต่อไปนี้รันจากโฟลเดอร์ `forme`
